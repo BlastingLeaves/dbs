@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "keyword": "tree",
+    "kind": 1,
+    "title": "A big tree",
+    "subTitle": "A video about a big tree",
+    "icon": "video",
+    "text": "Descriere video",
+    "video": "https://www.youtube.com/watch?v=2zRHlqc0_yw&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=13"
+  },
+  {
+    "id": 2,
+    "keyword": "sun",
+    "kind": 1,
+    "title": "A big sun",
+    "subTitle": "A video about a big sun",
+    "icon": "video",
+    "text": "Descriere video",
+    "video": "https://www.youtube.com/watch?v=2zRHlqc0_yw"
+  },
+  {
+    "id": 3,
+    "keyword": "car",
+    "kind": 2,
+    "title": "A big card",
+    "subTitle": "A document about a big car",
+    "icon": "doc",
+    "text": " The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.\n                        Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced\n                        in their exact original form, accompanied by English versions from the 1914 translation by H.\n                        Rackham."
+  },
+  {
+    "id": 4,
+    "keyword": "ball",
+    "kind": 1,
+    "title": "A small ball",
+    "subTitle": "A video about a small ball",
+    "icon": "video",
+    "text": "Descriere video",
+    "video": "https://www.youtube.com/watch?v=0ZJgIjIuY7U"
+  },
+  {
+    "id": 5,
+    "keyword": "toy",
+    "kind": 2,
+    "title": "A toyish toy",
+    "subTitle": "A document about a toy",
+    "icon": "doc",
+    "text": " Where can I get some?\n                        There are many variations of passages of Lorem Ipsum available, but the majority have suffered\n                        alteration in some form, by injected humour, or randomised words which don't look even slightly\n                        believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't\n                        anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the\n                        Internet tend to repeat predefined chunks as necessary, making this the first true generator on\n                        the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model\n                        sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum\n                        is therefore always free from repetition, injected humour, or non-characteristic words etc."
+  }
+]
